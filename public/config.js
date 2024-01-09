@@ -1,6 +1,6 @@
 window.__CONFIG__ = {
   // The URL for the CORS proxy, the URL must NOT end with a slash!
-  VITE_CORS_PROXY_URL: "simple-proxy.kotakbiji001.workers.dev",
+  VITE_CORS_PROXY_URL: "https://simple-proxy.kotakbiji001.workers.dev",
 
   // The READ API key to access TMDB
   VITE_TMDB_READ_API_KEY: "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwMDA4ZDg1YTg4Y2M3YmRhNTQxNjVlYzUwYTI0Yzk5YSIsInN1YiI6IjY1OWQxOGRiNTQzN2Y1MDE0YjljM2VjOCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.-SDdutTLiROvQaI4xwxN76uRil2Q4iB5tuErZplFkW8",
